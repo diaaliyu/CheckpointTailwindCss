@@ -1,0 +1,12 @@
+.rs{
+    text-align: center;
+    font-weight: bold;
+}
+.sectForm{
+    border: 1px solid darkgoldenrod;
+  margin: 0 auto;
+  width: 70%;
+}
+.btn-primary{
+    text-align: center;
+}
